@@ -5,7 +5,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=inkosiyehacker&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://cool-velzorix.vercel.app/?user=inkosiyehacker&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://cool-ten-azure.vercel.app/api/top-langs?username=inkosiyehacker&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=inkosiyehacker&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
