@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Tahoor Bashir  aka inkosiyehacker..... I'm a lazy developer who likes to code for himself 😝</h2>
+<h2 align="left">Hi 👋! My name is Tahoor Bashir ..... I'm a lazy developer who likes to code for himself 😝</h2>
 
 ###
 
